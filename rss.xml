@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A quem interessar possa]]></title>
+        <description><![CDATA[A quem interessar possa]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 25 May 2016 14:39:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A quem?]]></title>
+            <description><![CDATA[<p>É das cartas, às vezes, se perder pelo caminho. E é da gente: entre filmes e livros, entre músicas e fotografias, às vezes a gente perde o chão, erra o passo, desanda os olhos.</p>]]></description>
+            <link>undefineda-quem/index.html</link>
+            <guid isPermaLink="false">9460929f-00b8-4659-bfac-1b885be11bf0</guid>
+            <pubDate>Wed, 25 May 2016 14:39:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
