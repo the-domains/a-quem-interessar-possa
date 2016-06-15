@@ -1,19 +1,21 @@
 ---
-authors: []
-dateModified: '2016-06-15T02:42:05.432Z'
-description: 'Querido Jonas,'
-hasPage: true
 inFeed: true
-inNav: false
+hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
+description: 'Querido Jonas,'
+datePublished: '2016-06-15T02:59:44.196Z'
+dateModified: '2016-06-15T02:52:58.603Z'
 title: 'Jonas Mekas: Carta 1'
-author: []
-datePublished: '2016-06-15T02:43:38.800Z'
+author:
+  - name: ''
+    url: ''
 sourcePath: >-
   _posts/2016-06-15-as-i-was-moving-ahead-occasionally-i-saw-brief-glimpses-of-b.md
-inLanguage: null
+authors: []
 publisher: null
-starred: false
+starred: true
 url: jonas-mekas-carta-1/index.html
 _type: Article
 
