@@ -1,21 +1,17 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
+authors: []
+dateModified: '2016-06-15T01:55:57.272Z'
+datePublished: '2016-06-15T01:56:27.030Z'
 description: 'Querido Jonas,'
-datePublished: '2016-06-15T01:54:17.454Z'
-dateModified: '2016-06-15T01:52:51.604Z'
-title: As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty - Paradise
-author:
-  - name: ''
-    url: ''
+hasPage: true
+inFeed: true
+inNav: false
+keywords: []
+title: 'Jonas Mekas: Carta 1'
+author: []
+starred: false
 sourcePath: >-
   _posts/2016-06-15-as-i-was-moving-ahead-occasionally-i-saw-brief-glimpses-of-b.md
-authors: []
-publisher: null
-starred: false
 url: as-i-was-moving-ahead-occasionally-i-saw-brief-glimpses-of-b/index.html
 _type: Article
 
