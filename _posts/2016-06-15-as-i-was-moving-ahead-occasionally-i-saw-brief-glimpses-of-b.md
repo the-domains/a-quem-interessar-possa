@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-15T12:04:13.711Z'
+datePublished: '2016-06-15T12:04:16.502Z'
 sourcePath: >-
   _posts/2016-06-15-as-i-was-moving-ahead-occasionally-i-saw-brief-glimpses-of-b.md
 inFeed: true
@@ -9,13 +9,13 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-15T12:04:13.140Z'
+dateModified: '2016-06-15T12:04:15.951Z'
 title: ''
 publisher: null
 description: 'Querido Jonas,'
 inLanguage: null
 inNav: true
-starred: false
+starred: true
 url: jonas-mekas-carta-1/index.html
 _type: Article
 
