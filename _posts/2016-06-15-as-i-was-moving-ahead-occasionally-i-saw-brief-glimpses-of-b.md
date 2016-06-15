@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-15T12:04:38.865Z'
+datePublished: '2016-06-15T12:35:41.542Z'
 sourcePath: >-
   _posts/2016-06-15-as-i-was-moving-ahead-occasionally-i-saw-brief-glimpses-of-b.md
 inFeed: true
@@ -9,10 +9,10 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-15T12:04:28.848Z'
+dateModified: '2016-06-15T12:05:13.616Z'
 title: ''
 publisher: null
-description: 'Querido Jonas,'
+description: 'Querido Jonas, eu deveria ter filmado as minhas imagens do paraíso.'
 inLanguage: null
 inNav: true
 starred: true
@@ -22,9 +22,9 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bf63c8-3973-43d1-9e6e-bbd5c4e55cdb.png)
 
-Querido Jonas,
+Querido Jonas, eu deveria ter filmado as minhas imagens do paraíso.
 
-Eu deveria ter filmado as minhas imagens do paraíso. Talvez tenha conseguido juntar alguns traços, não sei. Provavelmente perder cada uma delas foi a única forma de encontrar e de experimentar a felicidade que passou por elas e que deixou ali algum rastro, algum resto. E de, depois, agora talvez, guardar e carregar comigo essas imagens, não como uma falta, mas como uma memória que eu preciso inventar a cada dia, me lembrando de quem sou e de ficar sempre perto de mim mesmo.
+Talvez tenha conseguido juntar alguns traços, não sei. Provavelmente perder cada uma delas foi a única forma de encontrar e de experimentar a felicidade que passou por elas e que deixou ali algum rastro, algum resto. E de, depois, agora talvez, guardar e carregar comigo essas imagens, não como uma falta, mas como uma memória que eu preciso inventar a cada dia, me lembrando de quem sou e de ficar sempre perto de mim mesmo.
 
 A Juliana tem filmado bem mais do que eu (certamente muito menos do que você), e a gente filma em celular, em digital, só dá pra simular o encanto da película, do super 8 e do 16mm. E filmando assim é que a Juliana às vezes me surpreende pelo olho, como dá pra perceber que você faz. E você mesmo vê o que filmou na hora de montar e se surpreende pelo olho, não?
 
