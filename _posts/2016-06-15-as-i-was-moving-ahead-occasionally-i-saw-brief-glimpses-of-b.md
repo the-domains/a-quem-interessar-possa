@@ -1,23 +1,23 @@
 ---
-authors: []
-dateModified: '2016-06-15T01:55:57.272Z'
-datePublished: '2016-06-15T01:56:27.030Z'
-description: 'Querido Jonas,'
-hasPage: true
 inFeed: true
+hasPage: true
 inNav: false
+inLanguage: null
 keywords: []
-title: 'Jonas Mekas: Carta 1'
+description: 'Querido Jonas,'
+datePublished: '2016-06-15T01:58:45.198Z'
+dateModified: '2016-06-15T01:58:22.116Z'
+title: ''
 author: []
-starred: false
 sourcePath: >-
   _posts/2016-06-15-as-i-was-moving-ahead-occasionally-i-saw-brief-glimpses-of-b.md
+authors: []
+publisher: null
+starred: false
 url: as-i-was-moving-ahead-occasionally-i-saw-brief-glimpses-of-b/index.html
 _type: Article
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https://www.youtube.com/embed/NOwescpyMqQ?feature=oembed&amp;url=http://www.youtube.com/watch?v=NOwescpyMqQ&amp;image=https://i.ytimg.com/vi/NOwescpyMqQ/hqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text/html&amp;schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
-
 Querido Jonas,
 
 Eu deveria ter filmado as minhas imagens do paraíso. Talvez tenha conseguido juntar alguns traços, não sei. Provavelmente perder cada uma delas foi a única forma de encontrar e de experimentar a felicidade que passou por elas e que deixou ali algum rastro, algum resto. E de, depois, agora talvez, guardar e carregar comigo essas imagens, não como uma falta, mas como uma memória que eu preciso inventar a cada dia, me lembrando de quem sou e de ficar sempre perto de mim mesmo.
