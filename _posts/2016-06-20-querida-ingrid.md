@@ -1,13 +1,13 @@
 ---
 description: ''
-dateModified: '2016-06-20T18:53:17.597Z'
-datePublished: '2016-06-20T18:54:23.670Z'
+dateModified: '2016-06-20T18:55:03.651Z'
+datePublished: '2016-06-20T18:55:04.312Z'
 title: 'Querida Ingrid, '
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1ddf762-1d3a-439c-a22e-96dcabdeaddf.jpg
-starred: false
 sourcePath: _posts/2016-06-20-querida-ingrid.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
