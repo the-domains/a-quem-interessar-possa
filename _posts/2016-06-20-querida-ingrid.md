@@ -1,17 +1,20 @@
 ---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+keywords: []
 description: ''
-dateModified: '2016-06-20T18:55:03.651Z'
-datePublished: '2016-06-20T18:55:04.312Z'
+datePublished: '2016-06-20T18:58:46.452Z'
+dateModified: '2016-06-20T18:58:12.904Z'
 title: 'Querida Ingrid, '
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1ddf762-1d3a-439c-a22e-96dcabdeaddf.jpg
 sourcePath: _posts/2016-06-20-querida-ingrid.md
+authors: []
+publisher: null
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: querida-ingrid/index.html
+_type: Article
 
 ---
 # Querida Ingrid, ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8ff64724f5f0455d338b5195f5960970/croprotate.jpg?cropheight=964&cropwidth=1497&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F965c5f63-a486-4115-b739-26df3ca675fb.jpg&x=0&y=0)
