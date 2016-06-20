@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-15T12:35:41.542Z'
+datePublished: '2016-06-20T18:55:07.906Z'
 sourcePath: >-
   _posts/2016-06-15-as-i-was-moving-ahead-occasionally-i-saw-brief-glimpses-of-b.md
 inFeed: true
@@ -9,13 +9,13 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-15T12:05:13.616Z'
+dateModified: '2016-06-20T18:55:07.475Z'
 title: ''
 publisher: null
 description: 'Querido Jonas, eu deveria ter filmado as minhas imagens do paraíso.'
 inLanguage: null
 inNav: true
-starred: true
+starred: false
 url: jonas-mekas-carta-1/index.html
 _type: Article
 
