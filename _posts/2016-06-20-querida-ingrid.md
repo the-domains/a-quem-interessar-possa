@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-20T18:58:46.452Z'
-dateModified: '2016-06-20T18:58:12.904Z'
+datePublished: '2016-06-20T19:41:57.953Z'
+dateModified: '2016-06-20T19:38:36.413Z'
 title: 'Querida Ingrid, '
 author: []
 sourcePath: _posts/2016-06-20-querida-ingrid.md
@@ -21,7 +21,7 @@ _type: Article
 
 Vi por esses dias um documentário que se proclama ser sobre você e me senti ainda mais elogiada pelas vezes que me dizem que somos parecidas. Não sei como é a recepção aí onde você está, mas vou te falar algumas coisas que me viraram coceiras depois do filme.
 
-Primeiro eu não soube muito bem pra quem mandar esta carta, se mandava pra você, pros seus filhos ou pro Stig Björkman, denuncio, quem fez o filme. Decidi durante uma conversa com Marcelo sobre a sua produção convulsiva de arquivo e as várias direções da sua alma que ela parece seguir. Você filmou a sua vida como se soubesse que um dia alguém ia achar essas imagens e penso até que alguém disse isso num dos depoimentos do documentário, que é daqueles bem convencionais e surpreende ao mesmo tempo, mas não me lembro quem disse. Não vai dar pra te fofocar tudo pela minha memória falha, que é uma das muitas coisas que me diferenciam de você. Eu arquivo pouco. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de9ab008-87de-48b5-8ec4-018340e950b8.jpg)
+Primeiro eu não soube muito bem pra quem mandar esta carta, se mandava pra você, pros seus filhos ou pro Stig Björkman, denuncio, quem fez o filme. Decidi durante uma conversa com Marcelo sobre a sua produção compulsiva de arquivo e as várias direções da sua alma que ela parece seguir. Você filmou a sua vida como se soubesse que algum dia alguém encontraria essas imagens e penso até que disseram isso num dos depoimentos do documentário, que é daqueles bem convencionais e surpreende ao mesmo tempo, mas não me lembro quem disse. Não vai dar pra te fofocar tudo pela minha memória falha, que é uma das muitas coisas que me diferenciam de você. Eu arquivo pouco. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de9ab008-87de-48b5-8ec4-018340e950b8.jpg)
 
 Na vida eu me mudei demais de lugar e você também. Quando começou a ter filhos você ainda não parava de se mudar e aí vem o assunto que eu mais gostaria de conversar com você: as pressões de maternidade com essa coisa da gente ser mulher. Eu não sou mãe, quase fui e tem gente que diz que sou. Sinto que perder uma gravidez foi um golpe sábio do destino pra minha felicidade, entende? Você, com aquelas imagens lindas, me mostrou que pode não existir culpa em amar um filho e amar o mundo. Apreciar uma vista com leveza e a doçura das companhias, lidar com essas pressões da vida de família, de amigos, de amor. Você me põe em confronto com um grande problema que eu tenho, que é o de me anular diante das relações que se estabelecem naturalmente com os dias ou as que eu escolho. Por falar em escolher, você me coloca diante de alguém que assume suas escolhas e com a imensidão das coisas que elas não excluem. 
 
