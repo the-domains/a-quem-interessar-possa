@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-20T19:41:57.953Z'
-dateModified: '2016-06-20T19:38:36.413Z'
+datePublished: '2016-06-23T09:36:52.330Z'
+dateModified: '2016-06-23T09:32:59.592Z'
 title: 'Querida Ingrid, '
 author: []
 sourcePath: _posts/2016-06-20-querida-ingrid.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: querida-ingrid/index.html
 _type: Article
 
