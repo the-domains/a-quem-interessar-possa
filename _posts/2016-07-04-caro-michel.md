@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-04T11:58:28.334Z'
-dateModified: '2016-07-04T11:57:53.855Z'
+datePublished: '2016-07-04T11:58:52.548Z'
+dateModified: '2016-07-04T11:58:35.862Z'
 author: []
 title: caro michel
 sourcePath: _posts/2016-07-04-caro-michel.md
