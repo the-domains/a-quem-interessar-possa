@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T20:10:43.956Z'
+datePublished: '2016-07-20T20:10:57.099Z'
 sourcePath: _posts/2016-07-20-abbas-kiarostami-carta-1.md
 inFeed: true
 authors: []
@@ -7,10 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T20:10:42.418Z'
-title: ''
+dateModified: '2016-07-20T20:10:55.866Z'
+title: 'Abbas Kiarostami: Carta 1'
 publisher: {}
-description: 'Querido Abbas, queria ter escrito antes.'
+description: ''
 inLanguage: null
 inNav: true
 starred: false
@@ -19,6 +19,8 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55876382-cd7c-42bf-9aad-d2741c4010f1.jpg)
+
+# Abbas Kiarostami: Carta 1
 
 Querido Abbas, queria ter escrito antes.
 
