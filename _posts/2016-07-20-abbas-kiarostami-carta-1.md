@@ -1,18 +1,25 @@
 ---
-author: []
-dateModified: '2016-07-20T17:15:29.142Z'
-description: ''
+inFeed: true
 hasPage: true
-inFeed: false
 inNav: true
-publisher: {}
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-07-20T17:29:43.694Z'
+dateModified: '2016-07-20T17:28:45.649Z'
+author: []
 title: 'Abbas Kiarostami: Carta 1'
 via: {}
-datePublished: '2016-07-20T17:15:45.280Z'
-starred: false
 sourcePath: _posts/2016-07-20-abbas-kiarostami-carta-1.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 url: abbas-kiarostami-carta-1/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55876382-cd7c-42bf-9aad-d2741c4010f1.jpg)
