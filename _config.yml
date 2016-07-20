@@ -29,6 +29,11 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - id: 'http://www.incinerrante.com/'
+    url: 'http://www.incinerrante.com/'
+    name: incinerrante
+    type: external
 favicon: null
 title: ''
 purpose: []
