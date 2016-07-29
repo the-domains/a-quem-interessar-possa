@@ -29,7 +29,10 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation: []
+navigation:
+  - name: todas as cartas
+    id: 8ef72609-9d11-4b45-8b1a-851f21859fab
+    type: content
 favicon: null
 title: ''
 purpose: []
