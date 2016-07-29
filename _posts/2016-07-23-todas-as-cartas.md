@@ -1,15 +1,16 @@
 ---
-datePublished: '2016-07-23T21:16:54.914Z'
+datePublished: '2016-07-29T09:37:36.525Z'
+sourcePath: _posts/2016-07-23-todas-as-cartas.md
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-23T21:16:39.074Z'
+dateModified: '2016-07-29T09:37:34.692Z'
 title: Todas as cartas
 publisher: {}
 description: A quem?
 inNav: true
 starred: false
-sourcePath: _posts/2016-07-23-todas-as-cartas.md
 url: todas-as-cartas/index.html
 _type: WebPage
 
